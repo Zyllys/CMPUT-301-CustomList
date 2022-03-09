@@ -31,15 +31,4 @@ public class CustomListTest {
         assertTrue(list.hasCity(edmonton));
 
     }
-
-
-    @Test
-    public void deleteCityTest() {
-
-    }
-
-    @Test
-    public void countCitiesTest() {
-
-    }
 }
